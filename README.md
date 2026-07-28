@@ -1,5 +1,3 @@
 # SQL Practice
 
-Worked solutions to SQL practice problems (LeetCode SQL 50 and others),
-organized by topic. 
-Written and tested in SQLite and MySQL syntax.
+Worked solutions to LeetCode SQL Study Plan 50, one file per problem.
